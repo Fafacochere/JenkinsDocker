@@ -9,3 +9,9 @@ c:\Code\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyIn
 c:\Code\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
 c:\Code\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 c:\Code\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Fafa\Documents\Programmation\c#\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Fafa\Documents\Programmation\c#\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Fafa\Documents\Programmation\c#\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Fafa\Documents\Programmation\c#\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fafa\Documents\Programmation\c#\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Fafa\Documents\Programmation\c#\JenkinsDocker\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
